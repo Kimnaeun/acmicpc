@@ -1,0 +1,6 @@
+﻿  14888 연산자 끼워넣기.cpp
+c:\users\naeun\documents\visual studio 2015\projects\acmicpc\acmicpc\14888 연산자 끼워넣기.cpp(16): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\naeun\documents\visual studio 2015\projects\acmicpc\acmicpc\14888 연산자 끼워넣기.cpp(16): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\naeun\documents\visual studio 2015\projects\acmicpc\acmicpc\14888 연산자 끼워넣기.cpp(17): warning C4101: 'oper' :참조되지 않은 지역 변수입니다.
+  acmicpc.vcxproj -> C:\Users\Naeun\documents\visual studio 2015\Projects\acmicpc\Debug\acmicpc.exe
+  acmicpc.vcxproj -> C:\Users\Naeun\documents\visual studio 2015\Projects\acmicpc\Debug\acmicpc.pdb (Full PDB)
